@@ -7,13 +7,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WWy596jTCfNgSns1lPAjs4aosC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/blog" />
   </component>
@@ -51,10 +64,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579327575559">
+    <state x="533" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579337168966">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="533" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579327575559" />
+    <state x="533" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579337168966" />
     <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579279553899">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
